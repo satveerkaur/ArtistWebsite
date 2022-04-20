@@ -25,11 +25,16 @@ So, access is denied.
 
 
 # Screenshots of Webpages
-![Screenshot (381)](https://user-images.githubusercontent.com/84339533/164204171-9d2d2285-040c-415f-a3e7-4ccd2a89e50e.png)
-![Screenshot (382)](https://user-images.githubusercontent.com/84339533/164204173-02c0465f-f578-4c79-a805-1854e8d97231.png)
-![Screenshot (383)](https://user-images.githubusercontent.com/84339533/164204180-b276acb9-f8ec-46f6-9e0b-090703274486.png)
-![Screenshot (384)](https://user-images.githubusercontent.com/84339533/164204185-218e2343-2cb7-4552-8fc2-fc4daeaf3faf.png)
-![Screenshot (385)](https://user-images.githubusercontent.com/84339533/164204155-cf7cb017-6686-4c19-ac4f-e3b4ab32814a.png)
-![Screenshot (386)](https://user-images.githubusercontent.com/84339533/164204160-20b975e4-0adc-4eaa-8019-9ccf38def617.png)
-![Screenshot (379)](https://user-images.githubusercontent.com/84339533/164204162-8f3d08b6-b9f7-410a-b7c0-eddc99e746db.png)
-![Screenshot (380)](https://user-images.githubusercontent.com/84339533/164204166-c29fb68b-0bc9-49e5-8539-66650f4c6121.png)
+![Screenshot (393)](https://user-images.githubusercontent.com/84339533/164205281-9237dee4-1ed5-42aa-929d-f568d96ad223.png)
+![Screenshot (394)](https://user-images.githubusercontent.com/84339533/164205284-8047d2de-c9c6-48d7-a2ed-5660ec8ea0b1.png)
+![Screenshot (387)](https://user-images.githubusercontent.com/84339533/164205289-d23bb464-33e5-46ab-b0ce-b93775724cb4.png)
+![Screenshot (388)](https://user-images.githubusercontent.com/84339533/164205290-e8fdf165-8b14-4757-b328-e968e1733ecb.png)
+![Screenshot (389)](https://user-images.githubusercontent.com/84339533/164205291-cb56683b-e2a6-4e8f-a637-dddd68171f3e.png)
+![Screenshot (390)](https://user-images.githubusercontent.com/84339533/164205295-8a24f655-37ba-4399-8732-701aabf13971.png)
+![Screenshot (391)](https://user-images.githubusercontent.com/84339533/164205296-f8311c73-19cb-4051-b88a-5433556623f1.png)
+![Screenshot (392)](https://user-images.githubusercontent.com/84339533/164205298-3ce1a4b9-cca5-4c8d-8566-2f8e4ef9af30.png)
+
+# Role Management
+
+ Create in Artist Controller can only be accessed by admin
+ Create in ArtCollectionCOntroller can be accessed by both Admin and Artist
