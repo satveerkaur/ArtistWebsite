@@ -44,6 +44,7 @@ namespace ArtistWebsite.Controllers
 
             return View(artCourses);
         }
+        [Authorize(Roles = "Admin,Artist,Patreon")]
 
         // GET: ArtCourses/Create
         public IActionResult Create()

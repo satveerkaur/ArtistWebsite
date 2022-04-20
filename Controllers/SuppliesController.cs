@@ -7,9 +7,11 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using ArtistWebsite.Data;
 using ArtistWebsite.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace ArtistWebsite.Controllers
 {
+    [Authorize]
     public class SuppliesController : Controller
     {
         private readonly DataContext _context;
